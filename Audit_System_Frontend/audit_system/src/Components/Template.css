@@ -1,0 +1,27 @@
+.mobile-dropdown-menu a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 4px 10px;
+}
+
+.mobile-dropdown-menu ul {
+  padding-left: 10px;
+  margin: 4px 0;
+}
+
+.mobile-dropdown-menu strong {
+  font-size: 1rem;
+}
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.merriweather-title {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}

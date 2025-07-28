@@ -1,0 +1,17 @@
+.bg-form{
+  background-color: azure;
+}
+
+input::placeholder {
+  color: #888;
+}
+
+input.custom-input {
+  background-color: #f6e6d1;
+  color: #333333;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  width: 100%;
+}
